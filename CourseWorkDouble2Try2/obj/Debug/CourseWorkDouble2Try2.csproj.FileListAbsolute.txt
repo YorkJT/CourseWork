@@ -1,0 +1,8 @@
+c:\users\yura\desktop\work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\bin\Debug\CourseWorkDouble2Try2.exe.config
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\obj\Debug\CourseWorkDouble2Try2.csprojResolveAssemblyReference.cache
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\obj\Debug\CourseWorkDouble2Try2.Properties.Resources.resources
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\obj\Debug\CourseWorkDouble2Try2.csproj.GenerateResource.Cache
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\bin\Debug\CourseWorkDouble2Try2.exe
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\bin\Debug\CourseWorkDouble2Try2.pdb
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\obj\Debug\CourseWorkDouble2Try2.exe
+C:\Users\Yura\Desktop\Work\Code\CourseWorkDouble2Try2\CourseWorkDouble2Try2\obj\Debug\CourseWorkDouble2Try2.pdb
